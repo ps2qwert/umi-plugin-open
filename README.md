@@ -19,7 +19,21 @@ export default {
 
 ## Options
 
-TODO
+### docs
+
+需要打开文档的地址
+
+1. Type : Array
+2. Default : null
+
+比如：
+```
+docs: [
+    'https://www.baidu.com',
+    'https://juejin.im/post/5d2a95836fb9a07ece67fddd',
+    'https://juejin.im/post/5d2716ab5188257b775d35ba',
+],
+```
 
 ## LICENSE
 
